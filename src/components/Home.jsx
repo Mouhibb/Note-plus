@@ -7,7 +7,7 @@ export default function Home () {
     return (
      <div>
         <header className="w3-container w3-amber w3-center" style={{padding:128 }}>
-          <h1 className="w3-margin w3-jumbo ">The simplest way to keep notes </h1>
+          <h1 className="w3-margin w3-jumbo " style={{color:"#F0FFF0"}}>The simplest way to keep notes </h1>
           <p className="w3-xlarge">All your notes, synced on all your devices<br></br> try Note+ now on  Windows, Linux, or in your browser.</p>
           <button className="w3-button w3-black w3-padding-large w3-large w3-margin-top"><Link to="/SignIn">Get started</Link></button>
         </header>
