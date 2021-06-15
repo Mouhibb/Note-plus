@@ -1,68 +1,58 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">Welcome to Note+ 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <a href="#" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+  <a href="https://twitter.com/Mouhibb" target="_blank">
+    <img alt="Twitter: Mouhibb" src="https://img.shields.io/twitter/follow/Mouhibb.svg?style=social" />
+  </a>
+</p>
 
-## Available Scripts
+> Note+ is a simple application that provides services for all users. Users can save their notes in voice or text notes and they have the ability to search for their notes taken time ago.
 
-In the project directory, you can run:
+### 🏠 [Homepage]
+![Capture8](https://user-images.githubusercontent.com/45210150/121972999-4441de80-cd74-11eb-8b3e-abcd65867ea5.PNG)
+![Capture666](https://user-images.githubusercontent.com/45210150/121973405-0ee9c080-cd75-11eb-8f24-1e7e7b8d9741.PNG)![Capture99](https://user-images.githubusercontent.com/45210150/121973042-591e7200-cd74-11eb-93c3-b61c78eb831c.PNG)
 
-### `npm start`
+### ✨ [Demo](https://note-plus-4bfc4.firebaseapp.com/)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### 🔧 Features
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+✅ React.js
+✅ Redux
+✅ Firebase
+➡ Responsive design
+➡ Dark Mode
 
-### `npm test`
+## Install
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```sh
+npm install
+```
 
-### `npm run build`
+## Usage
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```sh
+npm start
+```
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## Run tests
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```sh
+npm run test
+```
 
-### `npm run eject`
+## Author
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+👤 **Trabelsi Mouhib**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* Twitter: [@Mouhibb](https://twitter.com/Mouhibb)
+* Github: [@Mouhibb](https://github.com/Mouhibb)
+* LinkedIn: [@mouhib-trabelsi](https://linkedin.com/in/mouhib-trabelsi)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Show your support
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Give a ⭐️ if this project helped you!
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+***
